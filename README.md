@@ -2,7 +2,7 @@
 <head><title>registration form</title>
 <style>
   .reg_bt{
-    background-color:blue;
+    background-color: blue;
     }
 </style>
 </head>
@@ -31,4 +31,3 @@
     
     
     
-</body>
