@@ -7,7 +7,7 @@
 </style>
 </head>
 <body>
-  <div class+'reg_form">
+  <div class+="reg_form">
     <label for="First_name ">First_Name</label>
     <input type="text" name="First_name"> <br><br><br><br>
      <label for="Last_name ">Last_Name</label>
